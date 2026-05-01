@@ -5,110 +5,78 @@
 <br/>
 
 <div align="center">
-  <a href="https://t.me/vakamake">
-    <img src="https://img.shields.io/badge/Telegram-%40vakamake-1c1840?style=for-the-badge&logo=telegram&logoColor=ffffff&labelColor=534AB7"/>
-  </a>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=Valentin-Backend&style=for-the-badge&label=PROFILE+VIEWS&labelColor=060412&color=534AB7"/>
+
+[![Telegram](https://img.shields.io/badge/Telegram-%40vakamake-1c1840?style=for-the-badge&logo=telegram&logoColor=ffffff&labelColor=534AB7)](https://t.me/vakamake)&nbsp;
+<img src="https://komarev.com/ghpvc/?username=Valentin-Backend&style=for-the-badge&label=PROFILE+VIEWS&labelColor=060412&color=534AB7"/>
+
 </div>
 
 <br/>
 
 ---
 
-## `$ whoami`
+## About Me
 
-Fullstack engineer with a heavy backend focus — **Go is my primary language**, and I treat it seriously. I build production-grade services: correct concurrency, clean schema design, robust error handling, graceful degradation under load.
+Fullstack engineer specializing in the backend, with Go as my primary language. I build reliable, production-ready services with correct concurrency, clean data schemas, and robust error handling.
 
-On the frontend side I know what I'm doing — **Next.js, HTML/CSS/JS** — but my real interest is what happens on the server: the architecture decisions, the database access patterns, the system that holds up when things go wrong.
+I'm proficient with the frontend (Next.js, HTML/CSS/JS), but my main interest is on the server side. I care about how architecture is structured, how the system behaves under load, and ensuring every technical decision is well-justified.
 
-Every decision has a reason. I care about getting them right.
-
-<br/>
+I don't make arbitrary choices — every decision is driven by logic and a commitment to making the system as resilient as possible.
 
 ---
 
 ## Stack
 
-<div align="center">
+<table>
+<tr>
+<td valign="top" width="50%">
 
-### Backend
+**Backend**
 
-[![Go](https://skillicons.dev/icons?i=go&theme=dark)](https://go.dev)&nbsp;&nbsp;
-[![PostgreSQL](https://skillicons.dev/icons?i=postgres&theme=dark)](https://postgresql.org)&nbsp;&nbsp;
-[![Redis](https://skillicons.dev/icons?i=redis&theme=dark)](https://redis.io)&nbsp;&nbsp;
-[![Docker](https://skillicons.dev/icons?i=docker&theme=dark)](https://docker.com)&nbsp;&nbsp;
-[![Linux](https://skillicons.dev/icons?i=linux&theme=dark)](https://kernel.org)&nbsp;&nbsp;
-[![Git](https://skillicons.dev/icons?i=git&theme=dark)](https://git-scm.com)&nbsp;&nbsp;
+[![Go](https://skillicons.dev/icons?i=go&theme=dark)](https://go.dev)&nbsp;
+[![PostgreSQL](https://skillicons.dev/icons?i=postgres&theme=dark)](https://postgresql.org)&nbsp;
+[![Redis](https://skillicons.dev/icons?i=redis&theme=dark)](https://redis.io)&nbsp;
+[![Docker](https://skillicons.dev/icons?i=docker&theme=dark)](https://docker.com)&nbsp;
+[![Linux](https://skillicons.dev/icons?i=linux&theme=dark)](https://kernel.org)&nbsp;
+[![Git](https://skillicons.dev/icons?i=git&theme=dark)](https://git-scm.com)&nbsp;
 [![Bash](https://skillicons.dev/icons?i=bash&theme=dark)](https://gnu.org/software/bash)
-
-<br/>
-
-### Go Ecosystem
 
 | Area | Tools |
 |:---|:---|
-| Web / API | `chi` &nbsp;·&nbsp; `gin` &nbsp;·&nbsp; `net/http` &nbsp;·&nbsp; `gRPC` |
-| Database | `pgx` &nbsp;·&nbsp; `sqlx` &nbsp;·&nbsp; `goose` &nbsp;·&nbsp; raw SQL |
-| Concurrency | goroutines &nbsp;·&nbsp; channels &nbsp;·&nbsp; `sync` &nbsp;·&nbsp; worker pools |
-| Testing | `testify` &nbsp;·&nbsp; table-driven tests &nbsp;·&nbsp; mocks &nbsp;·&nbsp; benchmarks |
-| Tooling | `make` &nbsp;·&nbsp; `air` &nbsp;·&nbsp; `golangci-lint` &nbsp;·&nbsp; `swaggo` |
+| Web / API | `chi` · `gin` · `net/http` · `gRPC` |
+| Database | `pgx` · `sqlx` · `goose` · raw SQL |
+| Concurrency | goroutines · channels · `sync` · worker pools |
+| Testing | `testify` · table-driven · mocks · benchmarks |
+| Tooling | `make` · `air` · `golangci-lint` · `swaggo` |
 
-<br/>
+</td>
+<td valign="top" width="50%">
 
-### Frontend
+**Frontend**
 
-[![HTML](https://skillicons.dev/icons?i=html&theme=dark)](https://developer.mozilla.org/docs/Web/HTML)&nbsp;&nbsp;
-[![CSS](https://skillicons.dev/icons?i=css&theme=dark)](https://developer.mozilla.org/docs/Web/CSS)&nbsp;&nbsp;
-[![JavaScript](https://skillicons.dev/icons?i=js&theme=dark)](https://developer.mozilla.org/docs/Web/JavaScript)&nbsp;&nbsp;
-[![Next.js](https://skillicons.dev/icons?i=nextjs&theme=dark)](https://nextjs.org)&nbsp;&nbsp;
-[![React](https://skillicons.dev/icons?i=react&theme=dark)](https://react.dev)&nbsp;&nbsp;
+[![HTML](https://skillicons.dev/icons?i=html&theme=dark)](https://developer.mozilla.org/docs/Web/HTML)&nbsp;
+[![CSS](https://skillicons.dev/icons?i=css&theme=dark)](https://developer.mozilla.org/docs/Web/CSS)&nbsp;
+[![JavaScript](https://skillicons.dev/icons?i=js&theme=dark)](https://developer.mozilla.org/docs/Web/JavaScript)&nbsp;
+[![Next.js](https://skillicons.dev/icons?i=nextjs&theme=dark)](https://nextjs.org)&nbsp;
+[![React](https://skillicons.dev/icons?i=react&theme=dark)](https://react.dev)&nbsp;
 [![Figma](https://skillicons.dev/icons?i=figma&theme=dark)](https://figma.com)
 
 <br/>
 
-### Also in rotation
+**Also**
 
-[![Python](https://skillicons.dev/icons?i=python&theme=dark)](https://python.org)&nbsp;&nbsp;
-[![FastAPI](https://skillicons.dev/icons?i=fastapi&theme=dark)](https://fastapi.tiangolo.com)&nbsp;&nbsp;
-[![Kotlin](https://skillicons.dev/icons?i=kotlin&theme=dark)](https://kotlinlang.org)&nbsp;&nbsp;
-[![Firebase](https://skillicons.dev/icons?i=firebase&theme=dark)](https://firebase.google.com)&nbsp;&nbsp;
+[![Python](https://skillicons.dev/icons?i=python&theme=dark)](https://python.org)&nbsp;
+[![FastAPI](https://skillicons.dev/icons?i=fastapi&theme=dark)](https://fastapi.tiangolo.com)&nbsp;
+[![Kotlin](https://skillicons.dev/icons?i=kotlin&theme=dark)](https://kotlinlang.org)&nbsp;
+[![Firebase](https://skillicons.dev/icons?i=firebase&theme=dark)](https://firebase.google.com)&nbsp;
 [![Photoshop](https://skillicons.dev/icons?i=ps&theme=dark)](https://adobe.com/products/photoshop.html)
 
-</div>
-
-<br/>
-
----
-
-## Principles
-
-```
-– Ship things that work, not things that look like they work
-– Performance is a feature. So is maintainability.
-– Read the source code. Don't trust the docs blindly.
-– Simple > clever. Boring tech > exciting tech (usually).
-– If it can fail, it will. Design for it.
-```
-
-<br/>
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Valentin-Backend&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=060412&title_color=534AB7&icon_color=534AB7&text_color=c9c9d4&rank_icon=github"/>
-&nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Valentin-Backend&layout=compact&theme=midnight-purple&hide_border=true&bg_color=060412&title_color=534AB7&text_color=c9c9d4&langs_count=6"/>
-
-</div>
-
-<br/>
+</td>
+</tr>
+</table>
 
 ---
 
 <div align="center">
-  <sub>open to interesting projects · <a href="https://t.me/vakamake">@vakamake</a></sub>
+  <sub>If something here caught your eye — <a href="https://t.me/vakamake">let's talk</a></sub>
 </div>
